@@ -6,9 +6,9 @@
 #define VENDOR_ID 0xFEED
 #define PRODUCT_ID 0x0A0C
 #define DEVICE_VER 0x0068
-#define MANUFACTURER storyboard
-#define PRODUCT storyboard 68 keyboard
-#define DESCRIPTION storyboard mechanical keyboard
+#define MANUFACTURER Storyboard
+#define PRODUCT Storyboard custom keyboard
+#define DESCRIPTION Storyboard custom keyboard
 
 /* key matrix size */
 #define MATRIX_ROWS 8
