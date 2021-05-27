@@ -6,9 +6,9 @@
 #define VENDOR_ID 0xFEED
 #define PRODUCT_ID 0x0A0C
 #define DEVICE_VER 0x0068
-#define MANUFACTURER 68Keys.io
-#define PRODUCT The 68Keys.io Keyboard
-#define DESCRIPTION A 68 keys mechanical keyboard
+#define MANUFACTURER storyboard
+#define PRODUCT storyboard 68 keyboard
+#define DESCRIPTION storyboard mechanical keyboard
 
 /* key matrix size */
 #define MATRIX_ROWS 8
@@ -27,7 +27,7 @@
 #define DIODE_DIRECTION COL2ROW
 
 #define BACKLIGHT_PIN B5
-#define BACKLIGHT_BREATHING
+// #define BACKLIGHT_BREATHING
 #define BACKLIGHT_LEVELS 3
 
 #define DEBOUNCING_DELAY 5

@@ -1,6 +1,6 @@
-# 68Keys.io
+# Storyboard68
 
-Custom [68Keys.io](https://68keys.io) DIY keyboard.
+Custom fork of [68Keys.io](https://68keys.io) DIY keyboard.
 
 Keyboard Maintainer: [sbstjn](https://sbstjn.com)  
 Hardware Supported: Pro Micro  
