@@ -31,6 +31,8 @@
 #define BACKLIGHT_LEVELS 3
 
 #define DEBOUNCING_DELAY 5
+#define USB_POLLING_INTERVAL_MS 1
+#define FORCE_NKRO
 
 /* Mechanical locking support. Use KC_LCAP, KC_LNUM or KC_LSCR instead in keymap */
 #define LOCKING_SUPPORT_ENABLE
