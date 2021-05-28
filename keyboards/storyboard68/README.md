@@ -2,7 +2,7 @@
 
 Custom fork of [68Keys.io](https://68keys.io) DIY keyboard.
 
-Keyboard Maintainer: [sbstjn](https://sbstjn.com)  
+Keyboard Maintainer: [storycraft](https://github.com/storycraft)  
 Hardware Supported: Pro Micro  
 Hardware Availability: [DIY Guide](https://68keys.io)
 
