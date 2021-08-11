@@ -7,8 +7,8 @@
 #define PRODUCT_ID 0x0A0C
 #define DEVICE_VER 0x0068
 #define MANUFACTURER Storyboard
-#define PRODUCT Storyboard custom keyboard
-#define DESCRIPTION Storyboard custom keyboard
+#define PRODUCT Storyboard Custom Keyboard
+#define DESCRIPTION Storyboard Custom Keyboard
 
 /* key matrix size */
 #define MATRIX_ROWS 8
