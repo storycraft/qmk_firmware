@@ -1,10 +1,9 @@
 # Storyboard68
 
-Custom fork of [68Keys.io](https://68keys.io) DIY keyboard.
+Custom 68 key keyboard.
 
 Keyboard Maintainer: [storycraft](https://github.com/storycraft)  
-Hardware Supported: Pro Micro  
-Hardware Availability: [DIY Guide](https://68keys.io)
+Hardware: Atmega32u4
 
 Make example for this keyboard (after setting up your build environment):
 

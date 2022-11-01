@@ -11,24 +11,20 @@
 #define DESCRIPTION Storyboard Custom Keyboard
 
 /* key matrix size */
-#define MATRIX_ROWS 8
-#define MATRIX_COLS 9
+#define MATRIX_ROWS 5
+#define MATRIX_COLS 16
 
 #define MATRIX_ROW_PINS                \
     {                                  \
-        B6, B2, B3, B1, F7, F6, F5, F4 \
+        F0, F1, F4, F5, F6 \
     }
 #define MATRIX_COL_PINS                    \
     {                                      \
-        D3, D2, D1, D0, D4, C6, D7, E6, B4 \
+        B0, B1, B2, B3, B4, B5, B6, B7, C6, C7, D0, D1, D2, D3, D4, D5 \
     }
 #define UNUSED_PINS
 
 #define DIODE_DIRECTION COL2ROW
-
-#define BACKLIGHT_PIN B5
-// #define BACKLIGHT_BREATHING
-#define BACKLIGHT_LEVELS 3
 
 #define DEBOUNCING_DELAY 5
 #define USB_POLLING_INTERVAL_MS 1
