@@ -5,6 +5,7 @@ Custom 68 key keyboard.
 Keyboard Maintainer: [storycraft](https://github.com/storycraft)  
 Hardware: Atmega32u4
 
+## Build
 Make example for this keyboard (after setting up your build environment):
 
 ```bash
