@@ -2,13 +2,11 @@
 
 #include "config_common.h"
 
-/* USB Device descriptor parameter */
 #define VENDOR_ID 0xFEED
 #define PRODUCT_ID 0x0A0C
 #define DEVICE_VER 0x0068
 #define MANUFACTURER Storyboard
 #define PRODUCT Storyboard Custom Keyboard
-#define DESCRIPTION Storyboard Custom Keyboard
 
 /* key matrix size */
 #define MATRIX_ROWS 5
@@ -26,16 +24,14 @@
 
 #define DIODE_DIRECTION COL2ROW
 
-#define DEBOUNCING_DELAY 5
+#define DEBOUNCE 5
+
 #define USB_POLLING_INTERVAL_MS 1
 
 #define FORCE_NKRO
 
-/* Mechanical locking support. Use KC_LCAP, KC_LNUM or KC_LSCR instead in keymap */
 #define LOCKING_SUPPORT_ENABLE
-/* Locking resynchronize hack */
 #define LOCKING_RESYNC_ENABLE
 
-/* key combination for magic key command */
 #define IS_COMMAND() ( \
     keyboard_report->mods == (MOD_BIT(KC_LSHIFT) | MOD_BIT(KC_RSHIFT)))

@@ -7,6 +7,8 @@ F_USB = $(F_CPU)
 OPT_DEFS += -DINTERRUPT_CONTROL_ENDPOINT
 BOOTLOADER = atmel-dfu
 
+DEBOUNCE_TYPE = sym_eager_pk
+
 BOOTMAGIC_ENABLE = no       # Virtual DIP switch configuration (+1000)
 MOUSEKEY_ENABLE = no        # Mouse keys (+4700)
 EXTRAKEY_ENABLE = yes       # Audio control and System control (+450)
