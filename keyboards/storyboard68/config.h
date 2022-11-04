@@ -20,7 +20,6 @@
     {                                      \
         B0, B1, B2, B3, B4, B5, B6, B7, C6, C7, D0, D1, D2, D3, D4, D5 \
     }
-#define UNUSED_PINS
 
 #define DIODE_DIRECTION COL2ROW
 
