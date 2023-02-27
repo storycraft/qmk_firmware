@@ -1,6 +1,1 @@
-#include "storyboard68.h"
-
-void matrix_init_kb(void)
-{
-	matrix_init_user();
-}
+#include "quantum.h"
